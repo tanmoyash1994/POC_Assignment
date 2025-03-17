@@ -1,0 +1,7 @@
+[
+    { "id": "1", "name": "Alice", "position": "Manager", "attendance": 28 },
+    { "id": "2", "name": "Bob", "position": "Developer", "attendance": 24 },
+    { "id": "3", "name": "Charlie", "position": "Designer", "attendance": 22 },
+    { "id": "4", "name": "David", "position": "Tester", "attendance": 26 },
+    { "id": "5", "name": "Eva", "position": "HR", "attendance": 30 }
+]
